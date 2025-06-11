@@ -1,7 +1,10 @@
-## 👋 Hi there! I'm Sneha
+## 👋 Hi, I'm Sneha Agrawal
 
-I'm a **Full-Stack MERN Developer** who loves building real-world, production-ready applications. From creating powerful backend APIs to crafting modern, responsive frontends — I enjoy every part of the process. Passionate about learning, building, and growing. 🚀
+I'm a dedicated **Full-Stack MERN Developer** with a strong passion for building modern, responsive, and scalable web applications. I enjoy working across the entire stack — from creating powerful backend APIs to designing clean and interactive frontend interfaces.
 
+I’ve worked on real-world full-stack projects involving authentication, real-time communication, and RESTful APIs. My goal is to keep learning, push boundaries, and create meaningful digital experiences.
+
+---
 
 ### 💻 Tech Stack
 
@@ -16,22 +19,16 @@ I'm a **Full-Stack MERN Developer** who loves building real-world, production-re
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=Zustand&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-### 📦 Projects I’ve Built
-
-- 💬 [Chatty – Real-time Chat App](https://github.com/sneha236225/chatty)  
-- 🛒 [Forever Cart – eCommerce Website](https://github.com/sneha236225/forever-cart)  
-- 📝 [Note Vault – MERN Notes App](https://github.com/sneha236225/note-vault)  
-- 🎵 [Spotify Clone + Live Chat](https://github.com/sneha236225/spotify-clone)
-
-
-### 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/sneha-agrawal-22b457215)  
-- 🌐 Portfolio Coming Soon!
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
+
+### 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-agrawal-22b457215)
+
 
 _Thanks for stopping by! 😊_
